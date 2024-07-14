@@ -10,11 +10,8 @@
 
 ##### Landing Pages
 
-[Landing Page básica](https://github.com/targino-dev/html-css-fundamentos/tree/main/html-basico-formulario) |
-[Landing Page com Flexbox](https://github.com/targino-dev/html-css-fundamentos/tree/main/html-css-basico-tabela-estilizada) |
+[Landing Page básica](https://github.com/targino-dev/html-css-landing-pages/tree/main/html-css-landing-page-basico) |
+[Landing Page com Flexbox](https://github.com/targino-dev/html-css-landing-pages/tree/main/html-css-landing-page-grid-flex) |
 
-
-#### Reforço
-> Utilizando como base os 5 cases da [revisão de formulários](https://github.com/targino-dev/html-css-fundamentos/tree/main/html-css-revisao/formularios).
 
 
